@@ -53,6 +53,9 @@ let longName = '김수한무 거북이와 두루미 \
 // 큰따옴표도 마찬가지
 console.log(longName);
 
+
+
+// 템블릿리터럴 //
 const NAME = '홍길동';
 let age = 20;
 let married = false;
